@@ -37,11 +37,6 @@ All API keys are stored locally on your device in secure keychain storage and ar
 
 The App uses the following third-party services:
 
-### Flickr API
-- **Purpose**: Fetch supplementary park images from public photo collections
-- **Data Shared**: API requests include search terms (park names) and your API key (if provided)
-- **Privacy Policy**: https://www.flickr.com/help/privacy
- 
 ### National Park Service API
 - **Purpose**: Fetch park images and information
 - **Data Shared**: API requests include park names only
