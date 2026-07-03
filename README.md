@@ -15,7 +15,6 @@ Your Daily Park ("the App") is committed to protecting your privacy. This privac
 **API Keys**: You may optionally provide your own API keys for the following services:
   - **National Park Service API**: For fetching official park images and information
   - **Unsplash API**: For additional high-quality nature photography
-  - **Flickr API**: For supplementary park images
 
 All API keys are stored locally on your device in secure keychain storage and are never transmitted to our servers. They are only used to make direct API requests to the respective services.
 
